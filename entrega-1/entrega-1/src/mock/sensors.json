@@ -1,0 +1,58 @@
+{
+  "sensors": [
+    {
+      "id": 1,
+      "name": "Sensor de Pressão A1",
+      "currentValue": 2.5,
+      "unit": "bar",
+      "status": "OK",
+      "type": "Pressão",
+      "location": "Linha Principal"
+    },
+    {
+      "id": 2,
+      "name": "Sensor de Fluxo B2",
+      "currentValue": 15.8,
+      "unit": "L/min",
+      "status": "Alerta",
+      "type": "Fluxo",
+      "location": "Linha Secundária"
+    },
+    {
+      "id": 3,
+      "name": "Sensor de Temperatura C3",
+      "currentValue": 68.5,
+      "unit": "°C",
+      "status": "OK",
+      "type": "Temperatura",
+      "location": "Compressor Principal"
+    },
+    {
+      "id": 4,
+      "name": "Sensor de Vibração D4",
+      "currentValue": 3.2,
+      "unit": "mm/s",
+      "status": "OK",
+      "type": "Vibração",
+      "location": "Motor Principal"
+    },
+    {
+      "id": 5,
+      "name": "Sensor de Pressão E5",
+      "currentValue": 1.8,
+      "unit": "bar",
+      "status": "Alerta",
+      "type": "Pressão",
+      "location": "Linha de Retorno"
+    },
+    {
+      "id": 6,
+      "name": "Sensor de Fluxo F6",
+      "currentValue": 22.3,
+      "unit": "L/min",
+      "status": "OK",
+      "type": "Fluxo",
+      "location": "Linha de Alimentação"
+    }
+  ]
+}
