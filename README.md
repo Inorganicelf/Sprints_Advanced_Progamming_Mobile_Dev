@@ -9,11 +9,13 @@ O sistema permite o registro e visualização de sensores, gráficos, dados hist
 
 Integrantes: 
 
-Nome: Rafael Bisi Succi Ferreira       | RM: 550716
-Nome: Antonio Luiz D’Antonia da Cruz   | RM: 551364
-Nome: Giovanna Condrade Pereira        | RM: 552242 
-Nome: Paolo Colonna Carlotto e Martins | RM: 551985
-Nome: Siraj Youssef Youssef            | RM: 551792
+| Nome | RM |
+|------|-----|
+| Rafael Bisi Succi Ferreira | 550716 |
+| Antonio Luiz D'Antonia da Cruz | 551364 |
+| Giovanna Condrade Pereira | 552242 |
+| Paolo Colonna Carlotto e Martins | 551985 |
+| Siraj Youssef Youssef | 551792 |
 
 
 
