@@ -4,15 +4,14 @@
 ![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)
 
 ## 📖 Descrição  
-Aplicativo mobile desenvolvido como parte de uma Global Solution com foco em **monitoramento de riscos de deslizamentos**.  
-O sistema permite o registro e visualização de dados ambientais, visualização de áreas de risco com classificação crítica, alta, média ou baixa, e ações de mitigação com progresso visual.  
-A proposta visa auxiliar comunidades vulneráveis por meio de **informação acessível e em tempo real**, promovendo segurança, prevenção e resposta rápida a desastres naturais.
+Aplicativo mobile desenvolvido como parte de uma Sprint
+O sistema permite o registro e visualização de sensores, gráficos, dados históricos e sua situação em tempo real  
 
 ## 🛠️ Tecnologias  
 - `React Native`  
 - `TypeScript`  
 - `Expo`  
-- `React Navigation`  
+- `React Navigation`
 
 ## ✨ Funcionalidades  
 - Tela Splash na hora de inicialização do aplicativo
@@ -24,10 +23,13 @@ A proposta visa auxiliar comunidades vulneráveis por meio de **informação ace
 ## ⚙️ Instalação  
 ```bash
 # Clone o repositório
-$ git clone https://github.com/seu-usuario/monitoramento-riscos.git
-$ cd monitoramento-riscos
+$ git clone https://github.com/Inorganicelf/Sprints_Advanced_Progamming_Mobile_Dev.git
+$ cd entrega-1
 
 # Instale as dependências
 $ npm install
 # ou
 $ yarn install
+
+# Inicie o aplicativo
+$ npx expo start
