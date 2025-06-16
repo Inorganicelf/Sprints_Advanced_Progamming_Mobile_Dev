@@ -1,3 +1,4 @@
+markdown
 # Horizon - Digital Twin Platform
 
 ![App Screenshot](https://via.placeholder.com/800x500/1e3a8a/ffffff?text=Sensor+Monitoring+App)
@@ -13,17 +14,19 @@ Antes de começar, verifique se possui instalado:
 - [Git](https://git-scm.com/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/) (globalmente)
 
+```bash
 npm install -g expo-cli
 📥 Instalação
 Siga estes passos para configurar o projeto:
 
 Clone o repositório:
 
-
+bash
 git clone https://github.com/seu-usuario/horizon-app.git
 cd horizon-app
 Instale as dependências:
 
+bash
 npm install
 # ou
 yarn install
@@ -52,7 +55,6 @@ horizon-app/
 ├── App.tsx                     # Configuração de navegação
 ├── package.json                # Dependências e scripts
 └── tsconfig.json               # Configuração TypeScript (se existir)
-
 🔧 Dependências Principais
 React Native (0.79.3)
 
@@ -118,6 +120,7 @@ text
 
 1. Crie um arquivo LICENSE com o conteúdo da licença MIT
 2. Adicione ao repositório:
+```bash
 git add README.md LICENSE
 git commit -m "Adiciona README e LICENSE"
 git push
