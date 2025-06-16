@@ -7,6 +7,16 @@
 Aplicativo mobile desenvolvido como parte de uma Sprint
 O sistema permite o registro e visualização de sensores, gráficos, dados históricos e sua situação em tempo real  
 
+Integrantes: 
+
+Nome: Rafael Bisi Succi Ferreira       | RM: 550716
+Nome: Antonio Luiz D’Antonia da Cruz   | RM: 551364
+Nome: Giovanna Condrade Pereira        | RM: 552242 
+Nome: Paolo Colonna Carlotto e Martins | RM: 551985
+Nome: Siraj Youssef Youssef            | RM: 551792
+
+
+
 ## 🛠️ Tecnologias  
 - `React Native`  
 - `TypeScript`  
