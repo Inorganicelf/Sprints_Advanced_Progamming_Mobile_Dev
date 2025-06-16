@@ -28,8 +28,6 @@ $ cd entrega-1
 
 # Instale as dependências
 $ npm install
-# ou
-$ yarn install
 
 # Inicie o aplicativo
 $ npx expo start
