@@ -100,7 +100,7 @@ const TelaSplash: React.FC<TelaSplashProps> = ({ onStart, navigation }) => {
   // Função de navegação
   const navigateToNextScreen = () => {
     if (navigation) {
-      navigation.navigate('FLATLIST'); // Navega para a tela da FlatList
+      navigation.navigate('LOGIN'); // Navega para a tela da FlatList
     }
   };
 
